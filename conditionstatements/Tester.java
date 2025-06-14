@@ -9,9 +9,11 @@ public class Tester {
 		switch (customerType) {
 		case "Regular":
 			discount = 5;
-
-		case "Premium":
+            break;
+            
+            case "Premium":
 			discount = 10;
+            break;
 
 		default:
 			discount = 0;
