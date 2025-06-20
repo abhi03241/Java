@@ -36,9 +36,7 @@ class Tester {
         System.out.println("Address: " + customer1.address);
         System.out.println("Contact Number: " + customer1.contactNumber);
 
-
-
-
         
     } 
 }
+
