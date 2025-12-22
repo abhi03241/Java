@@ -21,7 +21,7 @@ public class Main {
                 System.out.println("Request failed: " + response.code());
             }
         } catch (IOException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
         }
     }
 }
